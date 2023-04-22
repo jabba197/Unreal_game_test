@@ -1379,3 +1379,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.22-14.49.42:354][  0]LogViewport: Scene viewport resized to 1241x894, mode Windowed.
 [2023.04.22-14.49.42:623][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.04.22-14.50.12:563][ 24]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.04.22-14.51.33:770][825]LogDerivedDataCache: C:/Users/Vish/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.080 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1222 files in 1859 folders with total size 33 MiB.
+[2023.04.22-14.56.37:585][231]LogSlate: Window 'Content Browser' being destroyed
+[2023.04.22-14.56.37:592][231]LogSlate: Window 'Content Browser' being destroyed
