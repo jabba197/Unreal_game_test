@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PY/A5TGYVAEJEGAL0QUSOM2X9.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/hut.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/hut_1001.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/hut_diffuse_1001.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7M/OFSO8DOC58JSZL7CYHQ2FW.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump_1001.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump_diffuse_1001.uasset",
 				"C:/Users/Vish/jabba drive/Personal/Python Projects/Github projects/Unreal_game_test/firstpersontest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
