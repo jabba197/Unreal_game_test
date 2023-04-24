@@ -1327,3 +1327,20 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.24-16.57.21:838][601]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TreeStump.TreeStump
 [2023.04.24-16.57.24:338][855]LogSlate: Window 'Message Log' being destroyed
 [2023.04.24-16.57.24:343][855]LogSlate: Window 'Message Log' being destroyed
+[2023.04.24-17.02.42:487][148]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B43F7C01_1761970191 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/PY/A5TGYVAEJEGAL0QUSOM2X9.PackageMetaData in its package
+[2023.04.24-17.02.42:488][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.24-17.02.42:496][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.24-17.03.05:714][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TreeStump.TreeStump
+[2023.04.24-17.03.05:714][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TreeStump.TreeStump
+[2023.04.24-17.03.05:714][531]LogActorFactory: Actor Factory spawned StaticMesh /Game/TreeStump.TreeStump as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_39
+[2023.04.24-17.03.05:735][531]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-17.03.06:352][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TreeStump.TreeStump
+[2023.04.24-17.03.06:352][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TreeStump.TreeStump
+[2023.04.24-17.03.06:354][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/TreeStump.TreeStump as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B4407C01_1335978369
+[2023.04.24-17.03.09:295][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.24-17.03.09:297][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-17.03.09:347][934]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SQ/NQEZH455MPZLRPMJ6D9D3K
+[2023.04.24-17.03.09:347][934]LogSavePackage: Moving '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Saved/NQEZH455MPZLRPMJ6D9D3KB542AF204C1EAF4C83660D817DA4491E.tmp' to '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SQ/NQEZH455MPZLRPMJ6D9D3K.uasset'
+[2023.04.24-17.03.09:370][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 14.2 sec)
+[2023.04.24-17.03.09:374][934]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A22D1B4407C01_1335978369
+[2023.04.24-17.03.09:374][934]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B4407C01_1335978369
