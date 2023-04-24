@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2J/2WRRUFRI8GFWGEGOD5QZBG.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AI/V9FPVS4X14M65REYFY92MA.uasset",
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UB/ZMQMG9AE2I7N0ZQF7YKXPR.uasset",
 				"C:/Users/Vish/jabba drive/Personal/Python Projects/Github projects/Unreal_game_test/firstpersontest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Vish/jabba drive/Personal/Python Projects/Github projects/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PP/BL7WXGL7KUGSDIPX58A1L8.uasset",
 				"C:/Users/Vish/jabba drive/Personal/Python Projects/Github projects/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UB/ZMQMG9AE2I7N0ZQF7YKXPR.uasset",
@@ -17,9 +20,7 @@
 				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump.uasset",
 				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump_1001.uasset",
 				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/TreeStump_diffuse_1001.uasset",
-				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SQ/NQEZH455MPZLRPMJ6D9D3K.uasset",
-				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2J/2WRRUFRI8GFWGEGOD5QZBG.uasset",
-				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AI/V9FPVS4X14M65REYFY92MA.uasset"
+				"C:/Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SQ/NQEZH455MPZLRPMJ6D9D3K.uasset"
 			]
 		}
 	]
