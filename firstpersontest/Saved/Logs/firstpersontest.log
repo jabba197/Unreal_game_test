@@ -1358,3 +1358,50 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.24-17.09.12:886][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 14.3 sec)
 [2023.04.24-17.09.12:889][658]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04421A22D1B4407C01_1700708370
 [2023.04.24-17.09.12:889][658]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B4407C01_1700708370
+[2023.04.24-17.14.53:219][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.24-17.15.17:301][120]EditorErrors: New page: Scripted Actions
+[2023.04.24-17.15.21:093][471]Cmd: EDIT COPY
+[2023.04.24-17.15.21:286][493]Cmd: EDIT PASTE
+[2023.04.24-17.15.21:325][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: ================================================
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Total job queries 105, among them cache hits 19 (18.10%)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 52 distinct outputs (61.90%)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: RAM used: 1.76 MiB of 819.20 MiB budget. Usage: 0.21%
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Shaders Compiled: 84
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Jobs assigned 86, completed 84 (97.67%)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Average time worker was idle: 115.54 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Time job spent in pending queue: average 0.99 s, longest 3.29 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 2.75 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Job life time (pending + execution): average 1.96 s, max 3.89
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.31 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Jobs were issued in 86 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Average processing rate: 6.31 jobs/sec
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Total thread time: 58.82 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Total thread preprocess time: 2.466 s
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Percentage time preprocessing: 4.19%
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Effective parallelization: 4.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 1.02 sec, max 2.52 sec, min 0.59 sec)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.83 sec, max 1.07 sec, min 0.59 sec)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.81 sec, max 0.96 sec, min 0.66 sec)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.81 sec, max 1.17 sec, min 0.46 sec)
+[2023.04.24-17.15.24:201][797]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   10 times, average 0.80 sec, max 2.12 sec, min 0.47 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.59% of total time (compiled   13 times, average 1.02 sec, max 2.52 sec, min 0.59 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.48% of total time (compiled   13 times, average 0.79 sec, max 1.33 sec, min 0.58 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.52% of total time (compiled   10 times, average 0.80 sec, max 2.12 sec, min 0.47 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.52% of total time (compiled   10 times, average 0.62 sec, max 1.47 sec, min 0.39 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.31% of total time (compiled    3 times, average 0.65 sec, max 0.86 sec, min 0.47 sec)
+[2023.04.24-17.15.24:202][797]LogShaderCompilers: Display: ================================================
+[2023.04.24-17.15.29:733][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.04.24-17.15.29:736][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-17.15.29:797][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2J/2WRRUFRI8GFWGEGOD5QZBG
+[2023.04.24-17.15.29:797][365]LogSavePackage: Moving '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Saved/2WRRUFRI8GFWGEGOD5QZBGFD14BD134C57FA376840D5958A5874B0.tmp' to '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2J/2WRRUFRI8GFWGEGOD5QZBG.uasset'
+[2023.04.24-17.15.29:799][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AI/V9FPVS4X14M65REYFY92MA
+[2023.04.24-17.15.29:799][365]LogSavePackage: Moving '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Saved/V9FPVS4X14M65REYFY92MAD3BF69834D91AAFE657A6F91019E0006.tmp' to '../../../../../../Users/Jhowl/OneDrive/Documents/GitHub/Unreal_game_test/firstpersontest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AI/V9FPVS4X14M65REYFY92MA.uasset'
+[2023.04.24-17.15.29:823][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 14.4 sec)
+[2023.04.24-17.15.29:826][365]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-17.15.29:826][365]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B4407C01_2070915371
+[2023.04.24-17.15.29:827][365]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_04421A22D1B4407C01_1700708370
